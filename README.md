@@ -1,7 +1,7 @@
 # caffe-windows-demo
 this is a caffe demo for windows.
 You can download this demo and run the exe to get a result.
-I put all required dll in this demo,so if your computer has a NVIDIA GPU this demo will run in GPU.if you do not has a computer with NVIDIA GPU,it will run in CPU.
+I put all required dll in this demo.
 
 
 Caution:
